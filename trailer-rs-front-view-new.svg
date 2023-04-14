@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="a" xmlns="http://www.w3.org/2000/svg" width="6.6in" height="1.6in" viewBox="0 0 478.1 112.2"><defs><style>.b{fill:none;stroke:#434344;stroke-miterlimit:10;stroke-width:1.2px;}</style></defs><path class="b" d="m313.4,111.4h12.3c.8,0,1.6-.4,2-1l4.1-5.5c.4-.6.6-1.2.6-1.8h143.2c1,0,1.8-.8,1.8-1.8V2.4c0-1-.6-1.8-1.6-1.8H2.4c-1,0-1.8.8-1.8,1.8v98.8c0,1,.8,1.8,1.8,1.8h2.5v5.7c0,1.4,1.2,2.6,2.7,2.6h15.2m181.1,0h45.5m0,.2h64.1m18-7.1l-4.1,5.5c-.4.4-.8.8-1.4.8h-121.5c0-.6-.4-1.2-1-1.2H23.5c-.8,0-1.2.6-1,1.2H7.6c-1,0-1.8-.8-1.8-1.8v-5.5c0-1,.8-1.8,1.8-1.8h322.5c.6,0,1.2.4,1.6,1,.2.6.2,1.2,0,1.8h-.2Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="479px" height="127px" viewBox="0 0 479 127" style="enable-background:new 0 0 479 127;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#434344;stroke-width:1.1825;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M313.9,111.6h12.3c0.8,0,1.6-0.4,2-1l4.1-5.5c0.4-0.6,0.6-1.2,0.6-1.8h143.2c1,0,1.8-0.8,1.8-1.8V2.6
+	c0-1-0.6-1.8-1.6-1.8H2.9C1.8,0.7,1,1.6,1,2.6v98.8c0,1,0.8,1.8,1.8,1.8h2.5v5.7c0,1.4,1.2,2.6,2.7,2.6h15.2 M204.3,111.6h45.5
+	 M249.7,111.8h64.1 M331.9,104.7l-4.1,5.5c-0.4,0.4-0.8,0.8-1.4,0.8H204.9c0-0.6-0.4-1.2-1-1.2H24c-0.8,0-1.2,0.6-1,1.2H8
+	c-1,0-1.8-0.8-1.8-1.8v-5.5c0-1,0.8-1.8,1.8-1.8h322.5c0.6,0,1.2,0.4,1.6,1c0.2,0.6,0.2,1.2,0,1.8H331.9z"/>
+</svg>
